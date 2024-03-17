@@ -1,4 +1,4 @@
-package com.github.cigor99.resulter;
+package com.github.igorlukic015.resulter;
 
 import java.util.Collection;
 import java.util.Optional;

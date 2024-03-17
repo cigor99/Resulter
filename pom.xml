@@ -2,14 +2,14 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.cigor99</groupId>
+    <groupId>com.github.igorlukic015</groupId>
     <artifactId>resulter</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>resulter</name>
     <description>A Java library to encapsulate operation results in a Result object</description>
-    <url>https://github.com/cigor99/resulter</url>
+    <url>https://github.com/igorlukic015/resulter</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -43,7 +43,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/cigor99/resulter</url>
+            <url>https://maven.pkg.github.com/igorlukic015/resulter</url>
         </repository>
     </distributionManagement>
 </project>

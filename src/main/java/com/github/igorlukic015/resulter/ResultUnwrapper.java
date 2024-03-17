@@ -1,4 +1,4 @@
-package com.github.cigor99.resulter;
+package com.github.igorlukic015.resulter;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ProblemDetail;
